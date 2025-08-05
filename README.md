@@ -31,7 +31,7 @@ Square Jump is a simple, animated jump game built using **React Native**. The pl
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/square-jump.git
+git clone https://github.com/EllieBach/square-jump.git
 cd square-jump
 ```
 ### 2. Install Dependencies
@@ -50,4 +50,5 @@ npx expo start
 - Your score increases the longer you survive.
 
 - Beat your previous high score and it will be saved.
+
 
